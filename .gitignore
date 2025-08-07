@@ -1,0 +1,55 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+
+# =====================
+# Arquivos temporários
+# =====================
+*.log
+*.tmp
+*.bak
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# VS Code
+# =====================
+.vscode/
+
+# =====================
+# Sistema operacional
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Arquivos gerados
+# =====================
+*.csv
+*.xlsx
+*.xls
+curriculos/
+Adiciona arquivo .gitignore personalizado
+
+
+# =====================
+# Segurança
+# =====================
+*.key
+*.pem
+*.env.local
+*.secrets
