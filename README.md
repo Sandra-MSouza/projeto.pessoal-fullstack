@@ -22,7 +22,7 @@ Criar uma aplicação capaz de:
 - **Prisma ORM** – Mapeamento objeto-relacional com PostgreSQL
 - **PostgreSQL** – Banco de dados relacional
 - **LLMs / IA** – Para análise de currículos e geração de conteúdo
-- **JavaScript / TypeScript** – Linguagem do backend (confirmar se está usando TS)
+- **JavaScript / TypeScript** – Linguagem do backend 
 - **Linux** – Configuração adaptada para servidores ARM64 com OpenSSL 3.0
 
 ## 📚 Modelagem de Dados (via Prisma)
